@@ -97,7 +97,7 @@ button:hover,
   border-style: solid;
   border-color: #03a9f4;
   border-width: 2px;
-  background-color: #ecf0f1 }
+  background-color: #0085ff }
 .button.button-googleplay:hover,
 .button.button-googleplay:focus {
   filter: brightness(90%) }
