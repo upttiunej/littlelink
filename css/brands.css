@@ -338,11 +338,11 @@ button:hover,
   filter: brightness(90%) }
 
 /* Twitter */
-.button.button-twitter {
+.button.button-ttr {
   color: #FFFFFF;
   background-color: #1DA1F2 }
-.button.button-twitter:hover,
-.button.button-twitter:focus {
+.button.button-ttr:hover,
+.button.button-ttr:focus {
   filter: brightness(90%) }
 
 /* Vimeo */
