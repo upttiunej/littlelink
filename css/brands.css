@@ -94,9 +94,6 @@ button:hover,
 /* Google Play */
 .button.button-opensource {
   color: #FFFFFF;
-  border-style: solid;
-  border-color: #03a9f4;
-  border-width: 2px;
   background-color: #0085ff }
 .button.button-googleplay:hover,
 .button.button-googleplay:focus {
