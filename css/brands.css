@@ -82,7 +82,31 @@ button:hover,
 .button.button-default:hover,
 .button.button-default:focus {
   filter: brightness(90%) }
-  
+
+/* Open Source */
+.button.button-opensource {
+  color: #FFFFFF;
+  background-color: #e67e22 }
+.button.button-opensource:hover,
+.button.button-opensource:focus {
+  filter: brightness(90%) }
+
+/* Google Play */
+.button.button-opensource {
+  color: #FFFFFF;
+  background-color: #ecf0f1 }
+.button.button-googleplay:hover,
+.button.button-googleplay:focus {
+  filter: brightness(90%) }
+
+/* Anchor FM */
+.button.button-anchor {
+  color: #FFFFFF;
+  background-color: #3498db }
+.button.button-anchor:hover,
+.button.button-anchor:focus {
+  filter: brightness(90%) }
+
 /* Bandcamp */
 .button.button-bandcamp {
   color: #FFFFFF;
